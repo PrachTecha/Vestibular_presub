@@ -9,3 +9,5 @@ openpyxl>=3.1
 loompy>=3.0
 PyComplexHeatmap>=1.7
 sccellfie>=0.1
+cnmf>=1.5
+gprofiler-official>=1.0
