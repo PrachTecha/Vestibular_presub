@@ -1,4 +1,4 @@
-# Vestibular scRNA-seq — Code for Figures 1 & 2
+# Vestibular scRNA-seq — Code for Figures 1, 2 & 4
 
 Reproducible notebooks for the figure panels listed below.
 
