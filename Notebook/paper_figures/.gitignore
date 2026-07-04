@@ -1,0 +1,35 @@
+# Data files — distribute via GEO / Zenodo, not git
+*.h5ad
+*.h5
+*.loom
+*.xlsx
+*.csv
+*.tsv
+*.mtx
+sccellfie_results/
+
+# Generated figures
+figures/
+*.pdf
+*.png
+*.svg
+*.ai
+
+# Jupyter
+.ipynb_checkpoints/
+*-checkpoint.ipynb
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+.python-version
+
+# macOS / editors
+.DS_Store
+.vscode/
+.idea/
+*.swp
